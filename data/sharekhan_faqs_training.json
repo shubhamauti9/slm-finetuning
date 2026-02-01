@@ -1,0 +1,317 @@
+[
+    {
+        "instruction": "How can I check my KRA Status?",
+        "input": "",
+        "output": "Know Your Customer (KYC) is an important requirement for stockbrokers like Sharekhan to open demat and trading accounts. You can check your KRA status by:\n\n1. Visit cvlkra.com\n2. Click on KYC inquiry\n3. Enter PAN, input the captcha, and click Submit\n4. Check the KRA and KYC Status column to identify your status\n\nRefer to the KRA Guiding Note for types of KRA statuses and what to do in case of objections."
+    },
+    {
+        "instruction": "When will I get the login credentials?",
+        "input": "",
+        "output": "Once your account is activated, login credentials will be sent to your registered mobile number and email ID."
+    },
+    {
+        "instruction": "How to open a Trading and Demat account with Sharekhan?",
+        "input": "",
+        "output": "To open a Trading and Demat account with Sharekhan:\n\n1. Visit the Sharekhan website\n2. Click on 'Open Account' or similar option\n3. Complete the online registration form\n4. Submit required documents (PAN, Aadhaar, Bank proof, Photos)\n5. Complete e-KYC verification\n6. Account will be activated in 24-48 hours\n\nOnce activated, you can start trading in Equities, Currency, Futures & Options, and more."
+    },
+    {
+        "instruction": "How many symbols can I subscribe to in one WebSocket connection via Sharekhan API?",
+        "input": "",
+        "output": "A user can subscribe to a maximum of 1000 symbols in a single WebSocket connection through Sharekhan API."
+    },
+    {
+        "instruction": "Does the Sharekhan API have Open Interest and MarketDepth data available?",
+        "input": "",
+        "output": "Yes, you can access data on Open Interest and MarketDepth through the Mirae Asset Sharekhan API."
+    },
+    {
+        "instruction": "Is the historical data from Sharekhan API adjusted for Corporate Actions?",
+        "input": "",
+        "output": "No, the historical data available through the Sharekhan API is not adjusted as per Corporate Actions."
+    },
+    {
+        "instruction": "How can I check the positions of executed orders via Sharekhan API?",
+        "input": "",
+        "output": "To check the positions of executed orders via API, select Net Positions and then click Orders API."
+    },
+    {
+        "instruction": "What orders can I place using the Sharekhan API?",
+        "input": "",
+        "output": "With the Sharekhan API, you can place:\n\n1. Intraday orders\n2. Delivery orders\n3. Other orders subject to availability for each segment\n\nAll orders are subject to Exchange and Internal Risk policies."
+    },
+    {
+        "instruction": "Does Sharekhan API offer historical data for F&O?",
+        "input": "",
+        "output": "Yes, the Sharekhan API provides:\n\n1. EOD (End of Day) scrip-wise data since inception\n2. Intraday data for the last 7 days"
+    },
+    {
+        "instruction": "Does Sharekhan API allow streaming of live prices?",
+        "input": "",
+        "output": "Yes, you can stream LIVE prices for all segments with Mirae Asset Sharekhan API."
+    },
+    {
+        "instruction": "Does Sharekhan API offer historical data?",
+        "input": "",
+        "output": "Yes, the Sharekhan API provides historical data for:\n\n- NSE/BSE Equity\n- NSE Futures\n- NSE Currency\n- MCX Commodity\n- Continuous data for F&O segment on contracts"
+    },
+    {
+        "instruction": "Is Mirae Asset Sharekhan API available to all customers?",
+        "input": "",
+        "output": "Yes, the Mirae Asset Sharekhan API is available to all active Mirae Asset Sharekhan customers."
+    },
+    {
+        "instruction": "What is the subscription fee for Sharekhan API?",
+        "input": "",
+        "output": "Mirae Asset Sharekhan API is available for FREE. You don't need to pay any additional charges or subscription fee for using the API."
+    },
+    {
+        "instruction": "Can I use Sharekhan API in multiple programming languages?",
+        "input": "",
+        "output": "Yes! Sharekhan offers REST APIs that can be used in many languages. Currently available SDKs include:\n\n- Python SDK\n- Java SDK\n- JavaScript SDK\n- Go SDK\n- .NET SDK\n- R SDK\n- PHP SDK\n\nYou can also refer to the documentation at https://github.com/Sharekhan"
+    },
+    {
+        "instruction": "What will be the brokerage applicable on orders placed from Sharekhan API?",
+        "input": "",
+        "output": "You will be charged as per your existing brokerage rates. No additional charges are applicable for using the API."
+    },
+    {
+        "instruction": "How can I access Mirae Asset Sharekhan Trading API?",
+        "input": "",
+        "output": "After signing up successfully, you will receive the API Key and Secure Key, which are required to access the API. You can use these credentials in your applications."
+    },
+    {
+        "instruction": "How long does it take to create an API Key with Sharekhan?",
+        "input": "",
+        "output": "Once you place the request for API Key creation, you will be able to use the API immediately."
+    },
+    {
+        "instruction": "What is DDPI and why is it needed?",
+        "input": "",
+        "output": "DDPI (Demat Debit and Pledge Instruction) is an authority a client gives to the broker and depository participants. It replaces the POA (Power of Attorney) as per SEBI circular.\n\nDDPI is used for:\n1. Transfer of shares to exchange when sold\n2. Pledging/re-pledging of securities for margin requirements\n3. Taking out shares for tender offers (Buyback/Delisting/Takeover)\n4. Debiting Mutual Funds on sale transactions\n\nIf a POA is not given, then the client can opt for DDPI. If neither is submitted, a DIS has to be submitted for every sale transaction."
+    },
+    {
+        "instruction": "How to activate e-DDPI on Sharekhan Website?",
+        "input": "",
+        "output": "To activate DDPI online on the website:\n\n1. Log in to the Mirae Asset Sharekhan website\n2. Hover over your initials (top-right) and click Profile\n3. Find the DDPI option and click SUBMIT\n4. Go through the T&Cs, tick the box, and click SUBMIT\n5. Click PROCEED WITH E-SIGN and agree to the terms\n6. Complete e-Stamp verification on NeSL website\n7. Complete Aadhaar-backed OTP e-Sign\n8. Click SAVE AND CONTINUE after successful e-signature\n\nNote: The e-Stamp Duty amount will be paid by Sharekhan."
+    },
+    {
+        "instruction": "How do I add money through Net banking to Sharekhan?",
+        "input": "",
+        "output": "To add funds via Net Banking:\n\n1. Enter your login credentials\n2. Select Accounts → Fund Transfer\n3. Enter the amount you want to transfer\n4. Select the bank and payment mode as 'Net Banking'\n5. You'll be redirected to your bank site\n6. Enter bank credentials and confirm\n7. Amount will be debited from bank and credited to trading account"
+    },
+    {
+        "instruction": "How do I add money through UPI to Sharekhan?",
+        "input": "",
+        "output": "To add funds via UPI:\n\n1. Enter your login credentials\n2. Select Accounts → Fund Transfer\n3. Enter the amount you want to transfer\n4. Select the bank and payment mode as 'UPI'\n5. Enter the UPI ID and click Transfer Funds\n6. On your UPI app, enter the UPI PIN and approve\n\n**Important:** Make the payment from the collect request only, not by initiating a new transfer to Sharekhan UPI ID from the UPI app."
+    },
+    {
+        "instruction": "How do I add money through NEFT/RTGS to Sharekhan?",
+        "input": "",
+        "output": "To transfer funds via NEFT/RTGS:\n\n1. Register Sharekhan as beneficiary in your net banking portal\n2. Use the following details:\n   - Beneficiary Name: Sharekhan Limited\n   - Beneficiary Account No: Prefix + Your Client Code\n   - For Equity/FNO: SHKEQT + Client Code\n   - For Mutual Fund: SHKMFS + Client Code\n   - For Currency: SHKCUR + Client Code\n   - For Commodity: SHKCOM + Client Code\n\n**Note:** Transfers via RTGS/NEFT will be credited within 4 working hours after bank clearance."
+    },
+    {
+        "instruction": "Which banks support online transfer to Sharekhan trading account?",
+        "input": "",
+        "output": "Sharekhan has tie-ups with 18 banks for online fund transfers:\n\n1. Axis Bank\n2. HDFC Bank\n3. Kotak Mahindra Bank\n4. Bank of India\n5. ICICI Bank\n6. State Bank of India\n7. Deutsche Bank\n8. IDBI Bank\n9. Union Bank of India\n10. Federal Bank\n11. IndusInd Bank\n12. Yes Bank\n13. AU Small Finance Bank\n14. Bank of Baroda\n15. Bank of Maharashtra\n16. Canara Bank\n17. Catholic Syrian Bank\n18. City Union Bank"
+    },
+    {
+        "instruction": "How to withdraw funds from Sharekhan?",
+        "input": "",
+        "output": "To withdraw funds:\n\n1. Enter your login credentials\n2. Select Accounts → Fund Transfer\n3. Enter the amount you want to withdraw\n4. Select the bank and click Withdraw Funds\n\n**Cut-off times:**\n- Before 10:30 AM (Mon-Sat): Processed same day afternoon\n- Before 2:30 PM (Mon-Fri): Processed same day evening\n\n**Note:** Payouts are processed via NEFT/RTGS if IFSC code is updated. Withdrawals are subject to sufficient funds after considering payment obligations."
+    },
+    {
+        "instruction": "What is a Demat account?",
+        "input": "",
+        "output": "A Demat (Dematerialized) Account holds your securities in digital/electronic format instead of physical certificates.\n\n**Benefits:**\n- Safe storage of securities\n- Easy transfer of shares\n- No risk of damage or theft\n- Faster settlement\n\n**Charges:**\n- Opening: Free to ₹500\n- Annual maintenance: As per tariff sheet\n- Transaction charges: As applicable"
+    },
+    {
+        "instruction": "What is BSDA?",
+        "input": "",
+        "output": "BSDA (Basic Services Demat Account) is a special category demat account that can be opened only by individual investors.\n\n**Key Features:**\n1. Value of securities held shall not exceed ₹2 Lakhs at any point\n2. Investors receive quarterly transaction statements\n3. One yearly physical statement showing holdings\n4. SMS alert facility available for debit transactions\n\nBSDA is ideal for small investors with limited portfolio size."
+    },
+    {
+        "instruction": "What is the settlement cycle in stock trading?",
+        "input": "",
+        "output": "In a rolling settlement, trades are settled on a T+1 basis at NSE/BSE:\n\n- **T day**: Trading day when you buy/sell\n- **T+1 day**: Settlement day when shares are transferred and funds are credited\n\nAll intervening holidays (bank holidays, NSE/BSE holidays, weekends) are excluded when calculating the settlement day."
+    },
+    {
+        "instruction": "What is futures trading?",
+        "input": "",
+        "output": "A Stock Future contract is an agreement to buy or sell a specified quantity of underlying equity share for a future date at an agreed price.\n\n**Key Features:**\n- Standardized specifications (market lot, expiry, tick size)\n- Settled on last Thursday of expiry month\n- Maximum 3-month trading cycle\n- Three contracts available: near month, mid month, far month\n\nFutures allow you to take leveraged positions in the market."
+    },
+    {
+        "instruction": "What is Options Trading?",
+        "input": "",
+        "output": "In options trading, you take buy/sell positions in index or stock contracts with various strike prices and expiry dates.\n\n**Types:**\n- **Call Option**: Right to buy at strike price\n- **Put Option**: Right to sell at strike price\n\n**Key Terms:**\n- **ITM (In-the-money)**: Positive value if exercised\n- **ATM (At-the-money)**: Zero value if exercised\n- **OTM (Out-of-the-money)**: Negative value if exercised\n\nIf price moves in your favor, you profit; if adverse, you incur loss."
+    },
+    {
+        "instruction": "What is a Call Option?",
+        "input": "",
+        "output": "A Call Option gives the buyer the right (but not obligation) to buy a given quantity of the underlying asset at a specified strike price by paying a premium.\n\n**Example:**\nIf you buy a Call option on Reliance at ₹2500 strike price:\n- If Reliance rises above ₹2500, you can exercise the option and profit\n- If it stays below ₹2500, you let it expire and lose only the premium paid"
+    },
+    {
+        "instruction": "What is a Put Option?",
+        "input": "",
+        "output": "A Put Option gives the buyer the right (but not obligation) to sell the underlying asset at a specified strike price by paying a premium.\n\n**For Buyer:** Right to sell at strike price\n**For Seller:** Obligation to buy if exercised\n\n**Example:**\nIf you buy a Put option on HDFC Bank at ₹1600 strike price:\n- If HDFC Bank falls below ₹1600, you profit\n- If it stays above ₹1600, you let it expire and lose only the premium"
+    },
+    {
+        "instruction": "When does the F&O contract expire?",
+        "input": "",
+        "output": "Futures and Options contracts expire on the **last Thursday** of the expiry month.\n\n**Key Points:**\n- If last Thursday is a trading holiday, contracts expire on previous trading day\n- Maximum 3-month trading cycle: near month, next month, far month\n- New contracts introduced on trading day following expiry\n- At any time, 3 contracts are available for trading per security"
+    },
+    {
+        "instruction": "What is Mark to Market (MTM)?",
+        "input": "",
+        "output": "Mark-to-Market (MTM) is an accounting method that records the value of an asset according to its current market price.\n\nIn derivatives trading, MTM is calculated daily to determine profit/loss on open positions. If your position moves against you, additional margin may be required."
+    },
+    {
+        "instruction": "What is hedging in F&O?",
+        "input": "",
+        "output": "Hedging is a risk management strategy of buying and selling futures contracts to offset risks from changing market prices.\n\n**Example:**\nIf you hold a stock portfolio worth ₹10 lakhs:\n- You fear market may fall\n- Short Nifty futures to hedge\n- If markets fall, loss in portfolio is offset by profit in futures\n\nHedging reduces risk but may also limit potential gains."
+    },
+    {
+        "instruction": "What is NAV in Mutual Funds?",
+        "input": "",
+        "output": "NAV (Net Asset Value) is the per-unit market value of a mutual fund scheme.\n\n**Calculation:**\nNAV = (Total Market Value of Assets - Liabilities) / Number of Units Outstanding\n\n**Key Points:**\n- Declared daily for open-ended funds\n- Declared weekly for close-ended funds\n- Helps investors know the value of their investment"
+    },
+    {
+        "instruction": "What is SIP in Mutual Funds?",
+        "input": "",
+        "output": "SIP (Systematic Investment Plan) is a financial planning tool for investing small amounts regularly.\n\n**Benefits:**\n1. **Rupee Cost Averaging**: Buy more units when prices are low\n2. **Power of Compounding**: Returns generate more returns\n3. **Disciplined Investing**: Regular investments build wealth\n4. **Flexibility**: Start with as low as ₹500/month\n\nSIP is ideal for long-term wealth creation with minimal market timing risk."
+    },
+    {
+        "instruction": "What are the different types of Mutual Funds?",
+        "input": "",
+        "output": "**By Structure:**\n- Open-Ended Schemes\n- Close-Ended Schemes\n- Interval Schemes\n\n**By Objective:**\n- Equity (Growth) Schemes\n- Income Schemes\n- Money Market Schemes\n- Tax Saving Schemes (ELSS)\n- Balanced Schemes\n- Offshore Funds\n- Index Schemes"
+    },
+    {
+        "instruction": "What are the advantages of investing in Mutual Funds?",
+        "input": "",
+        "output": "**Key Advantages:**\n\n1. **Affordability**: Start with as low as ₹500\n2. **Professional Management**: Expert fund managers handle investments\n3. **Diversification**: Spread risk across multiple securities\n4. **More Choice**: Various schemes for different goals\n5. **Tax Benefits**: ELSS offers tax deduction under 80C\n6. **Liquidity**: Easy to redeem in open-ended funds"
+    },
+    {
+        "instruction": "How to apply for IPO online via Sharekhan?",
+        "input": "",
+        "output": "To apply for IPO online:\n\n1. Login with your credentials\n2. Click on IPO section\n3. View active IPOs and click Apply\n4. Fill all details on IPO order page\n5. Enter your UPI ID and click Submit\n6. You'll receive authorization request on UPI app\n7. Authorize and the IPO will be successfully placed\n\n**Note:** You can track your application under 'Track Order' in the IPO section."
+    },
+    {
+        "instruction": "What is Margin Trading Facility (MTF)?",
+        "input": "",
+        "output": "MTF is a leverage mechanism that enables you to get funding for buy trades by paying only an upfront margin.\n\n**How it works:**\n- You pay only 25%* of the total value\n- Sharekhan funds the remaining 75%\n- Interest is charged on the funded amount\n\n**Example:**\nBuying ₹1,00,000 worth of Reliance:\n- You pay: ₹25,000 (margin)\n- Sharekhan funds: ₹75,000\n\n*Margin percentage varies by scrip"
+    },
+    {
+        "instruction": "How to activate MTF on Sharekhan?",
+        "input": "",
+        "output": "You can activate MTF through Sharekhan's digital platforms:\n\n**Website:**\n- Click Apply button on Profile page, OR\n- Click Accept on consent page when placing MTF order\n\n**Mobile App:**\n- Click Accept on consent page when placing trade\n\n**TradeTiger:**\n- Click Accept on consent page when placing order\n\nMTF is enabled instantly upon acceptance. Not available for NRI clients."
+    },
+    {
+        "instruction": "What is a Bracket Order?",
+        "input": "",
+        "output": "A Bracket Order limits loss and locks profit by 'bracketing' an order with two opposite-side orders.\n\n**Structure:**\n- Parent Order (Leg 1): Your main buy/sell order\n- Book Profit Order (Leg 2): Sell at target price\n- Stop Loss Order (Leg 3): Exit to limit loss\n\n**Example:**\nBuy order at ₹10 can be bracketed with:\n- Profit booking sell at ₹15\n- Stop loss sell at ₹8-9\n\nOnce either Leg 2 or Leg 3 is executed, the other is cancelled automatically."
+    },
+    {
+        "instruction": "What is a Cover Order?",
+        "input": "",
+        "output": "A Cover Order is a market order placed along with a compulsory Stop Loss Order.\n\n**Key Features:**\n- Buy/sell order is always a Market Order\n- Stop Loss is compulsory and within specified range\n- Stop Loss cannot be cancelled\n- Reduces margin requirement due to limited risk\n\nCover Orders are ideal for intraday trading with defined risk."
+    },
+    {
+        "instruction": "What is a Stop Loss Order?",
+        "input": "",
+        "output": "A Stop Loss Order gets activated only when market price reaches or crosses the specified trigger price.\n\n**How it works:**\n1. You specify a Stop Loss Trigger Price (SLTP)\n2. Order remains passive until price reaches SLTP\n3. Once triggered, it behaves like a normal limit order\n\n**Example:**\nBought HDFC Bank at ₹1600:\n- Set SLTP at ₹1520 (5% below)\n- Set Limit at ₹1510\n- If price falls to ₹1520, order triggers\n\n**Best Practice:** Set 5-10% below buy price."
+    },
+    {
+        "instruction": "What is MyGTD Order?",
+        "input": "",
+        "output": "MyGTD (Good Till Date) is a facility to place buy/sell limit orders with a specified validity period.\n\n**How it works:**\n1. Place order with validity date (within max allowed)\n2. If not fully executed, Sharekhan places fresh orders for unexecuted quantity\n3. Orders continue daily until validity date or full execution\n\n**Available for:** Equity Cash product only\n**Supports:** Limit orders, Stop Loss orders, Bracket orders"
+    },
+    {
+        "instruction": "What is a Trailing Stop Loss Order?",
+        "input": "",
+        "output": "A Trailing Stop Loss Order automatically adjusts the stop loss price as the market moves in your favor.\n\n**Example:**\nSell trailing stop loss order:\n- Current market: ₹50\n- Stop loss: ₹48\n- Trailing value: ₹2\n\nAs market rises to ₹60, stop loss trails to ₹58, maintaining ₹2 difference. If market falls to ₹58, the order triggers.\n\n**Benefit:** Locks in profits while protecting against downside."
+    },
+    {
+        "instruction": "What is Record Date for corporate actions?",
+        "input": "",
+        "output": "Record Date is when the company checks its records to identify eligible shareholders for a corporate action.\n\n**Key Points:**\n- Shareholders holding shares in demat on record date are eligible\n- Applies to: Rights shares, Bonus shares, Stock splits, Dividends\n- Ex-date and record date are same under T+1 settlement\n\nTo be eligible for benefits, you must hold shares before the ex-date."
+    },
+    {
+        "instruction": "What is a Bonus Issue?",
+        "input": "",
+        "output": "A Bonus Issue is the distribution of free shares by a company to existing shareholders.\n\n**Key Points:**\n- Shares issued in a specific ratio (e.g., 1:1 means 1 free share for every 1 held)\n- Number of shares increases\n- Price falls in proportion to the bonus ratio\n- Overall investment value remains the same\n\n**Example:**\nHolding 100 shares at ₹200 (Value: ₹20,000)\nAfter 1:1 bonus: 200 shares at ₹100 (Value: ₹20,000)"
+    },
+    {
+        "instruction": "What is a Stock Split?",
+        "input": "",
+        "output": "A Stock Split is a corporate action where a company increases shares by reducing face value.\n\n**Key Points:**\n- Increases number of shares\n- Reduces price per share proportionally\n- Total investment value remains the same\n- Improves liquidity due to lower price\n\n**Example:**\n2:1 split on shares at ₹1000:\n- Before: 100 shares at ₹1000 = ₹1,00,000\n- After: 200 shares at ₹500 = ₹1,00,000"
+    },
+    {
+        "instruction": "What is a Rights Issue?",
+        "input": "",
+        "output": "Rights Issue enables existing shareholders to purchase additional shares at a reduced price, in proportion to their holdings.\n\n**Process:**\n1. Eligible shareholders receive Rights Entitlements (REs) in demat\n2. Use REs to apply for rights shares, OR\n3. Trade REs on market\n\n**Note:** If REs are neither sold nor utilized, they expire worthless."
+    },
+    {
+        "instruction": "What is Buyback?",
+        "input": "",
+        "output": "Buyback is when a company repurchases its own shares from shareholders.\n\n**Types:**\n1. Tender Offer: Company offers to buy at fixed price\n2. Open Market Offer: Company buys from open market\n\n**Key Points:**\n- Usually at price higher than market price\n- Shareholders can apply through their broker\n- Reduces number of outstanding shares\n\nTo apply for buyback, contact your mapped Sharekhan branch."
+    },
+    {
+        "instruction": "What is the T+0 settlement cycle?",
+        "input": "",
+        "output": "T+0 settlement means shares and funds are settled on the same day of trading.\n\n**Key Features:**\n- Trading hours: 9:15 AM to 1:30 PM\n- Settlement completed by 4:30 PM same day\n- Available for limited securities (25 stocks as of May 2024)\n- Optional, coexists with T+1 settlement\n- Price band: ±1% based on T+1 closing price\n\n**Not Available for:** NRI accounts, custodian settlements, non-Sharekhan DP accounts"
+    },
+    {
+        "instruction": "What is Nifty?",
+        "input": "",
+        "output": "Nifty (NIFTY 50) is the flagship stock market index of the National Stock Exchange (NSE).\n\n**Key Points:**\n- Comprises 50 of the largest, most liquid stocks\n- Represents major sectors of the economy\n- Used as benchmark for fund performance\n- Basis for index derivatives trading\n\nRelated indices: Nifty Next 50, Nifty 100, Nifty 500, Nifty Bank"
+    },
+    {
+        "instruction": "What is Bank Nifty?",
+        "input": "",
+        "output": "Bank Nifty represents the 12 most liquid and large-capitalized banking stocks listed on NSE.\n\n**Purpose:**\n- Benchmark for Indian banking sector performance\n- Heavily traded in F&O segment\n- Popular for intraday and options trading\n\n**Major Constituents:** HDFC Bank, ICICI Bank, SBI, Kotak Bank, Axis Bank, etc."
+    },
+    {
+        "instruction": "What is Sensex?",
+        "input": "",
+        "output": "Sensex is the benchmark stock market index of the Bombay Stock Exchange (BSE).\n\n**Key Points:**\n- Comprises 30 of the largest, most actively traded stocks\n- First stock market index in India (since 1986)\n- Accurate gauge of India's economy\n- Used for benchmarking and derivatives trading"
+    },
+    {
+        "instruction": "How to unlock my Sharekhan account?",
+        "input": "",
+        "output": "Your account gets locked after 3 consecutive incorrect password attempts.\n\n**To unlock:**\n1. Visit the Sharekhan login page\n2. Click on 'Unlock Account' option\n3. Follow the verification steps\n\nAlternatively, contact customer service on 022-61151111 or 022-41523200"
+    },
+    {
+        "instruction": "How to change my Membership password?",
+        "input": "",
+        "output": "To change your Membership password:\n\n1. Visit Sharekhan Online Trading Account Login\n2. Click on 'Forgot Password'\n3. Enter your Login ID and Captcha\n4. Submit to receive OTP\n5. Enter OTP\n6. Set new Membership and Trading passwords\n7. Submit to update passwords successfully"
+    },
+    {
+        "instruction": "How to retrieve my Sharekhan login details?",
+        "input": "",
+        "output": "To retrieve login details:\n\n1. Visit Sharekhan Login page\n2. Click on 'Forgot ID'\n3. Choose Mobile or Email option\n4. Enter registered mobile number or email ID\n5. Enter captcha and submit\n6. Login ID will be sent to your registered mobile/email"
+    },
+    {
+        "instruction": "What is KRA and why is it important?",
+        "input": "",
+        "output": "KRA (KYC Registration Agency) is a SEBI-supervised authority that maintains a central database of client KYC details.\n\n**Purpose:**\n- Eliminates duplicate KYC process across intermediaries\n- One-time KYC valid across all SEBI-regulated entities\n\n**Why Important:**\n- Mandatory for trading as per SEBI guidelines\n- Must verify mobile/email with KRA\n- Unverified details can lead to trading restrictions\n\nKRA status can be validated at cvlkra.com"
+    },
+    {
+        "instruction": "What is the brokerage for Equity trading?",
+        "input": "",
+        "output": "To check brokerage charges:\n\n1. Login with your credentials\n2. Click on Reports → Transaction Reports\n3. Click on Equity → Brokerage Summary\n4. View the brokerage structure for your account\n\nYou can also check estimated charges before placing orders:\n1. Trade Now → Normal Order\n2. Enter scrip and quantity\n3. Click on 'Charges' to see estimated brokerage and taxes"
+    },
+    {
+        "instruction": "What is short selling?",
+        "input": "",
+        "output": "Short Selling is selling a security you don't own, expecting to buy it back at a lower price.\n\n**Key Points:**\n- Sell shares against margin without holding in demat\n- Must buy back (square off) on the same trading day\n- If not squared off, shares must be delivered before pay-in\n- Failure leads to auction and associated charges\n\n**Warning:** High risk strategy, should be used carefully."
+    },
+    {
+        "instruction": "What happens if I don't square off my short sell position?",
+        "input": "",
+        "output": "If you don't buy back (square off) your short position on the same day:\n\n1. You must deliver shares from your demat account by T+2\n2. If shares not delivered, they go for auction\n3. Auction debit charges will be borne by you\n4. ~130% of traded value gets blocked until auction is settled\n\n**Recommendation:** Always square off intraday short positions before market close."
+    },
+    {
+        "instruction": "What is Auto Square Off?",
+        "input": "",
+        "output": "Auto Square Off occurs when positions are automatically closed to cover risk.\n\n**Triggers:**\n1. Account runs into debit balance\n2. Insufficient margin for open positions\n3. Non-payment of dues by T+2\n\n**Consequences:**\n- Delay Pay-in Interest: 18% p.a. on debit balance\n- Shares may be sold to cover outstanding dues\n\n**To Avoid:** Maintain sufficient funds and clear dues on time."
+    }
+]
